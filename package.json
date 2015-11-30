@@ -1,0 +1,11 @@
+{
+  "name": "group_text_2_dot_oh_my",
+  "version": "2.0.0",
+  "description": "The second version of the group text app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
